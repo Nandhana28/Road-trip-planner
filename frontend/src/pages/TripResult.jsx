@@ -8,7 +8,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { planTrip } from '../api/tripApi';
 import { 
-  CloudRain, CloudSun, Wind, Sun, 
+  CloudRain, CloudSun, Wind, Sun, Droplets,
   Phone, Globe, CreditCard, Clock, MapPin, 
   Zap, Mountain, Scale, Map, 
   Fuel, Thermometer,
